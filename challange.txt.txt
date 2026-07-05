@@ -1,0 +1,6 @@
+An encrypted message was found during an investigation.
+The attacker claims that the flag is hidden using a common encoding technique.
+Can you recover the original flag.
+
+Encoded message:
+R0NTe2Jhc2U2NF9tYXN0ZXJfMjAyNn0=
